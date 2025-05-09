@@ -1,0 +1,32 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "Learning the react js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulrawat-2002/Learning-Phase-ReactJS.git"
+  },
+  "keywords": [],
+  "author": "Atul Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulrawat-2002/Learning-Phase-ReactJS/issues"
+  },
+  "homepage": "https://github.com/atulrawat-2002/Learning-Phase-ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "browserlist": [
+    "Last 2 verisons"
+  ]
+}
